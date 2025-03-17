@@ -84,15 +84,23 @@ endmodule
 ```
  
 **Logic symbol & Truthtable**
+
+
 ![Logic symol   Truth Table](https://github.com/user-attachments/assets/a070c7d4-38b9-4a0a-a44a-3c78625bad76)
 
 **RTL realization Output:** 
+
+
 ![RTL realization Output](https://github.com/user-attachments/assets/8d718405-2cf0-41d9-bdb0-fb6676aab10f)
 
 **RTL**
+
+
 ![rtl 2](https://github.com/user-attachments/assets/28c0dfc8-2514-465c-850b-e257e0df8f55)
 
 **Result:**
+
+Studied and verified the truth table of logic gates in Quartus II using Verilog programming successfully
 
 
 
